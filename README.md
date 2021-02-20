@@ -13,4 +13,4 @@ raco pkg install
 Open the **hello.rkt** file (i recommend open with Dr.Racket) and press Run
 
 ## Output
-[image info](./pictures/output.png)
+<img src="./pictures/output.png">
