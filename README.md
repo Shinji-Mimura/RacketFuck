@@ -11,3 +11,6 @@ raco pkg install
 ## Test
 
 Open the **hello.rkt** file (i recommend open with Dr.Racket) and press Run
+
+## Output
+[image info](./pictures/output.png)
