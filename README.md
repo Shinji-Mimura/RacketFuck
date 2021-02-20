@@ -1,5 +1,5 @@
 # RacketFuck
-A Racket simple language capable to interpret and run the Brainfuck language
+A simple Racket language capable to interpret and run the Brainfuck language
 
 ## How To Install
 
