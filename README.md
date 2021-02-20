@@ -1,6 +1,11 @@
 # RacketFuck
 A simple Racket language capable to interpret and run the Brainfuck language
 
+## Requirements
+
+1. Install Racket
+2. Install Beautiful Racket : [Click Here] (https://beautifulracket.com/setup.html)
+
 ## How To Install
 
 ```
